@@ -4,7 +4,7 @@
 
 ## 🔒 访问密码
 
-默认密码：`tanfushi5201314`（可在 `index.html` 中的常量 `PWD` 处修改）
+默认密码：`5201314`（可在 `index.html` 中的常量 `PWD` 处修改）
 
 ## 🚀 GitHub Pages 部署步骤
 
